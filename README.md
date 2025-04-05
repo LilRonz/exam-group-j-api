@@ -1,11 +1,11 @@
 # 1. List of Contributors
 
 - **Features:**
-  - Olandag: Leader.
-  - Alquisola: Implement user add functionality.
-  - Minoza: Implement user listing and retrieval functionality.
-  - Camingao: Implement user update functionality.
-  - Leader: Manage the main branch and ensure integration.
+  - **Olandag:** Leader.
+  - **Alquisola:** Implement user add functionality.
+  - **Minoza:** Implement user listing and retrieval functionality.
+  - **Camingao:** Implement user update functionality.
+  - **Leader:** Manage the main branch and ensure integration.
 
 # 2. API DOCUMENTATION
 ### 1: GET http://localhost:3000/exams-group
