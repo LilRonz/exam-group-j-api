@@ -20,3 +20,17 @@ router.get('/exam-group', (req, res) => {
 router.get('/exams', (req, res) => {
   res.json(exams);
 });
+
+
+// Create a new exam
+router.post('/exams', (req, res) => {
+    const newExam = {
+      id: exams.length + 1,
+      ...req.body
+    };
+    
+    exams.push(newExam);
+    res.status(201).json(newExam);
+  });
+  
+  export default router;
