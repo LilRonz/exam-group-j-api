@@ -1,1 +1,0 @@
-# exam-group-j-api
