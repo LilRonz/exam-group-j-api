@@ -1,6 +1,6 @@
 # 1. List of Contributors
 
-- Features:
+- **Features:**
   - Olandag: Leader.
   - Alquisola: Implement user add functionality.
   - Minoza: Implement user listing and retrieval functionality.
